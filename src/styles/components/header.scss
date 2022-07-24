@@ -9,7 +9,6 @@
     }
 
     .logo {
-
         a {
             text-decoration: none;
             color: $black;
@@ -27,12 +26,11 @@
         }
 
         span {
-            margin-bottom: .3rem;
+            margin-bottom: 0.3rem;
             background: $black;
             height: 2px;
             width: 100%;
             display: block;
         }
     }
-
 }
